@@ -1,0 +1,18 @@
+body{
+    background: black;
+    color:white;
+}
+
+a{
+    color:orange;
+    text-decoration: none;
+}
+
+a:hover{
+    color:black;
+    background: white;
+}
+
+h1{
+    font-family:  serif;
+}
